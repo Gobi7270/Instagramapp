@@ -5,3 +5,5 @@
 3.add music feature
 
 4.adding the chat box theme feature
+
+5.add story effects features
