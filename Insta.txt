@@ -9,3 +9,5 @@
 5.add story effects features
 
 6.add the reels feature
+
+7.added the audio and video files sharing in the chat
